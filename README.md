@@ -13,7 +13,7 @@ Below is simply more info about the tech I specialize in.
 | C++      | Working on it.<br>Video games are pretty neat, right? Yeah.<br>Welp, my Java knowledge isn't going to help all that much creating cool stuff, so I'm learning a more suited language.                                                                                                          |
 | Ti-Basic | Yes, I started programing on my ti-82 calculator.<br>Interestingly, coding for extremely limited single threaded hardware means you often have to find clever workarounds.<br>Get's ya brain thinking, I'm telling ya!                                                                         |
 
-
+![Heh, your markdown parser can't show images. Shame.](assets/global/definitivelynotarickroll.png)
 
 
 
