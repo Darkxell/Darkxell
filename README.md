@@ -2,7 +2,7 @@
 
 This is the page of Nicolas Candela, French software dev.
 
-You may find more info about real life me <in my online CV (Wip, sorry)>
+You may find more info about real life me <in my online CV (Wip, sorry)><br>
 Below is simply more info about the tech I specialize in.
 
 
