@@ -1,7 +1,7 @@
 ### Welcome to my github page!
 
 <div style="text-align:center">
-  <img src="assets/closed/assets-cut/markdownheader.png" />
+  <img height=400px src="assets/closed/assets-cut/markdownheader.png" />
 </div>
 
 This is the page of Nicolas Candela, French software dev.
