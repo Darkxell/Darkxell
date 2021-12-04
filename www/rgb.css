@@ -55,3 +55,14 @@ https://www.youtube.com/watch?v=NzGugQ-eiy0
         background-position: 0.1em 0.1em;
     }
 }
+
+.rgbtext {
+    animation: rgbtext 3s infinite;
+}
+  
+@keyframes rgbtext {
+    0% { color: red; }
+    33% { color: blue; }
+    66% { color: rgb(0,255,0); }
+    100% { color: red; }
+}
