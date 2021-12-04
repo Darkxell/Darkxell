@@ -1,0 +1,57 @@
+
+/*
+Code from tutorial here
+https://www.youtube.com/watch?v=NzGugQ-eiy0
+*/
+
+.rgb-border{
+    background: #020024;
+    background: linear-gradient(155deg, #020024 0%, red 0%, #ffab00 12%, #e0ff00 24%,
+    #00ff08 36%, #00e4ff 48%, #0005ff 60%, #fe00e7 72%, red 84%, #ffa200 96%);
+    width: 11em;
+    height: 4em;
+    margin: 1em;
+    position: relative;
+    animation: rgbgrad 55s linear infinite;
+}
+
+.rgb-border::before{
+    content:'';
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 100%;
+    height: 100%;
+    background: inherit;
+    filter: blur(4px);
+}
+
+.rgb-border .rgb-btn{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: black;
+    background-image: linear-gradient(147deg, black 0%, #1f1f1f 74%);
+    width: 9.8em;
+    height: 3.3em;
+    text-align: center;
+    text-decoration: none;
+    padding: 1.1em;
+    color: #fff;
+    font-size: 1.1em;
+    letter-spacing: 1px;
+}
+
+@keyframes rgbgrad{
+    0%{
+        background-position: 0 0;
+    }
+    50%{
+        background-position: 18.75em 31.25em;
+    }
+    100%{
+        background-position: 0.1em 0.1em;
+    }
+}
