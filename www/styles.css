@@ -8,8 +8,6 @@ body{
 	justify-content: center;
 	align-items: center;
 	min-height: 100vh;
-	background-color: black;
-	color: cornsilk;
 	font-family: system-ui sans-serif;
 }
 
@@ -18,4 +16,15 @@ body{
 	width: 100%;
 	align-items: center;
 	text-align: center;
+}
+
+.presentation{
+	background-color: rgba(0, 40, 43, 0.911);
+	color: cornsilk;
+	height: 100vh;
+}
+
+.projects{
+	background-color: rgb(0, 15, 37);
+	color: cornsilk;
 }
