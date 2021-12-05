@@ -6,8 +6,8 @@ https://www.youtube.com/watch?v=NzGugQ-eiy0
 
 .rgb-border{
     background: #020024;
-    background: linear-gradient(155deg, #020024 0%, red 0%, #ffab00 12%, #e0ff00 24%,
-    #00ff08 36%, #00e4ff 48%, #0005ff 60%, #fe00e7 72%, red 84%, #ffa200 96%);
+    background: linear-gradient(155deg, #020024 0%, rgba(0, 225, 255, 0.877) 0%, #2600ff9a 12%, #00aeff 24%,
+    #4c00ff 36%, #00e4ff 48%, #0005ff 60%, #6e00fe 72%, rgb(0, 255, 234) 84%, #020024 96%);
     width: 11em;
     height: 4em;
     margin: 1em;

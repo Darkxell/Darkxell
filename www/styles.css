@@ -24,7 +24,14 @@ body{
 	background: url('background.jpg');
 	background-size: cover;
     background-position: center;
-	position: absolute;
+	position: fixed;
+	width: 45%;
+}
+@media(max-width:768px){
+	.presentation{
+		width: 100%;
+		position: relative;
+	}
 }
 
 .projects{
