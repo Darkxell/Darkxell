@@ -19,9 +19,12 @@ body{
 }
 
 .presentation{
-	background-color: rgba(0, 40, 43, 0.911);
 	color: cornsilk;
 	height: 100vh;
+	background: url('background.jpg');
+	background-size: cover;
+    background-position: center;
+	position: absolute;
 }
 
 .projects{
