@@ -6,7 +6,7 @@
 
 This is the page of Nicolas Candela, French software dev.
 
-You may find more info about real life me [in my CV](cv-color.pdf)!
+You may find more info about real life me [in my CV](cv-color.pdf) or on [my portfolio](https://darkxell.github.io)!
 Below is simply more info about the tech I specialize in.
 
 
